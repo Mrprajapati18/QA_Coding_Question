@@ -9,6 +9,6 @@ public class SwapTwoNumber {
 	  Y = X - Y;
 	  X = X - Y;
 	  System.out.println("After Swapping  X is " + X +" And " + " Y Is " + Y );
- }
+   }
 
 }
